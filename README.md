@@ -1,3 +1,3 @@
 # v-card
 
-[Click me](git@github.com:AlizeeBoc/v-card.git)
+[Click me](https://github.com/AlizeeBoc/v-card))
